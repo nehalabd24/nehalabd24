@@ -96,6 +96,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nehalabd24/nehalabd24/output/snake.svg" alt="Snake animation" />
-
 ###
