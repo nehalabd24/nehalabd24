@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on An enterprise level software for student onboarding and management.<br><br>🌱 I’m currently learning Django rest framework, DSA,<br><br>💬 Ask me about React, Next, Django<br><br>📫 How to reach me nehal.abd24@gmail.com<br><br>⚡ Fun fact I like superbikes!</h4>
+<h4 align="left">🔭 I’m currently working on An enterprise level software for student onboarding and management.<br><br>🌱 I’m currently learning Django rest framework, DSA,<br><br>💬 Ask me about React, Next, Django<br><br>📫 How to reach me: nehal.abd24@gmail.com<br><br>⚡ Fun fact: I like superbikes!</h4>
 
 ###
 
@@ -88,8 +88,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nehalabd24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nehalabd24&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nehalabd24" alt="GitHub Streak" /></a>
 </div>
 
 ###
